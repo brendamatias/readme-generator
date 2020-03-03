@@ -1,0 +1,12 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:brendamatias/readme-generator.git",
+  "author": "brendamatias <brendamatias.sobral@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "add": "^2.0.6",
+    "yarn": "^1.22.0"
+  }
+}
